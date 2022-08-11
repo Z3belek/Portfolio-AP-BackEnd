@@ -15,8 +15,8 @@ public class Project {
   private String type;
   @Column(name = "place")
   private String place;
-  @Column(name = "dTexto")
-  private String dTexto;
+  @Column(name = "dtexto")
+  private String dtexto;
   @Column(name = "imgurl")
   private String imgurl;
 
@@ -52,12 +52,12 @@ public class Project {
     this.place = place;
   }
 
-  public String getdTexto() {
-    return dTexto;
+  public String getDtexto() {
+    return dtexto;
   }
 
-  public void setdTexto(String dTexto) {
-    this.dTexto = dTexto;
+  public void setDtexto(String dtexto) {
+    this.dtexto = dtexto;
   }
 
   public String getImgurl() {

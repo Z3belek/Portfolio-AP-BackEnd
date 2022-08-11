@@ -40,7 +40,7 @@ public class ExperienceController {
     editData.setYear2(experience.getYear2());
     editData.setRole(experience.getRole());
     editData.setPlace(experience.getPlace());
-    editData.setdTexto(experience.getdTexto());
+    editData.setDtexto(experience.getDtexto());
 
     return experienceService.save(editData);
   }

@@ -17,54 +17,43 @@ public class Experience {
   private String role;
   @Column(name = "place")
   private String place;
-  @Column(name = "dTexto")
-  private String dTexto;
-
+  @Column(name = "dtexto")
+  private String dtexto;
   public Integer getId() {
     return id;
   }
-
   public void setId(Integer id) {
     this.id = id;
   }
-
   public Integer getYear1() {
     return year1;
   }
-
   public void setYear1(Integer year1) {
     this.year1 = year1;
   }
-
   public Integer getYear2() {
     return year2;
   }
-
   public void setYear2(Integer year2) {
     this.year2 = year2;
   }
-
   public String getRole() {
     return role;
   }
-
   public void setRole(String role) {
     this.role = role;
   }
-
   public String getPlace() {
     return place;
   }
-
   public void setPlace(String place) {
     this.place = place;
   }
-
-  public String getdTexto() {
-    return dTexto;
+  public String getDtexto() {
+    return dtexto;
+  }
+  public void setDtexto(String dtexto) {
+    this.dtexto = dtexto;
   }
 
-  public void setdTexto(String dTexto) {
-    this.dTexto = dTexto;
-  }
 }
