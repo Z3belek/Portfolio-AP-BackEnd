@@ -45,7 +45,7 @@ public class ExperienceController {
     return experienceService.save(editData);
   }
 
-  @DeleteMapping("/project/{id}")
+  @DeleteMapping("/experience/{id}")
   public void deleteExperience(@PathVariable Integer id) {
     experienceService.delete(id);
   }
