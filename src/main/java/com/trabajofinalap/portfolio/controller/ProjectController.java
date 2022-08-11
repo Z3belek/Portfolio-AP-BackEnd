@@ -39,7 +39,7 @@ public class ProjectController {
     editData.setTitle(project.getTitle());
     editData.setType(project.getType());
     editData.setPlace(project.getPlace());
-    editData.setdTexto(project.getdTexto());
+    editData.setDtexto(project.getDtexto());
     editData.setImgurl(project.getImgurl());
 
     return projectService.save(editData);
