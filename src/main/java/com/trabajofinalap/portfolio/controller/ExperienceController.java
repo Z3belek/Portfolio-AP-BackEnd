@@ -36,11 +36,12 @@ public class ExperienceController {
   @PutMapping("/experience/{id}")
   public Experience editExperience(@RequestBody Experience experience, @PathVariable Integer id) {
     Experience editData = experienceService.findById(id);
-    editData.setYear1(experience.getYear1());
-    editData.setYear2(experience.getYear2());
     editData.setRole(experience.getRole());
     editData.setPlace(experience.getPlace());
-    editData.setDtexto(experience.getDtexto());
+    editData.setYear1(experience.getYear1());
+    editData.setYear2(experience.getYear2());
+    editData.setTechnologies(experience.getTechnologies());
+    editData.setResponsibilities(experience.getResponsibilities());
 
     return experienceService.save(editData);
   }

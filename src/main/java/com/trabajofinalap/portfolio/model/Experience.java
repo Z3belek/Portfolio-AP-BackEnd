@@ -9,33 +9,23 @@ public class Experience {
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   @Column(name = "id")
   private Integer id;
-  @Column(name = "year1")
-  private Integer year1;
-  @Column(name = "year2")
-  private Integer year2;
   @Column(name = "role")
   private String role;
   @Column(name = "place")
   private String place;
-  @Column(name = "dtexto")
-  private String dtexto;
+  @Column(name = "year1")
+  private Integer year1;
+  @Column(name = "year2")
+  private Integer year2;
+  @Column(name = "technologies")
+  private String technologies;
+  @Column(name = "responsibilities")
+  private String responsibilities;
   public Integer getId() {
     return id;
   }
   public void setId(Integer id) {
     this.id = id;
-  }
-  public Integer getYear1() {
-    return year1;
-  }
-  public void setYear1(Integer year1) {
-    this.year1 = year1;
-  }
-  public Integer getYear2() {
-    return year2;
-  }
-  public void setYear2(Integer year2) {
-    this.year2 = year2;
   }
   public String getRole() {
     return role;
@@ -49,11 +39,29 @@ public class Experience {
   public void setPlace(String place) {
     this.place = place;
   }
-  public String getDtexto() {
-    return dtexto;
+  public Integer getYear1() {
+    return year1;
   }
-  public void setDtexto(String dtexto) {
-    this.dtexto = dtexto;
+  public void setYear1(Integer year1) {
+    this.year1 = year1;
+  }
+  public Integer getYear2() {
+    return year2;
+  }
+  public void setYear2(Integer year2) {
+    this.year2 = year2;
+  }
+  public String getTechnologies() {
+    return technologies;
+  }
+  public void setTechnologies(String technologies) {
+    this.technologies = technologies;
+  }
+  public String getResponsibilities() {
+    return responsibilities;
+  }
+  public void setResponsibilities(String responsibilities) {
+    this.responsibilities = responsibilities;
   }
 
 }
