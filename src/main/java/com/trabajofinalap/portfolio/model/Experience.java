@@ -14,9 +14,9 @@ public class Experience {
   @Column(name = "place")
   private String place;
   @Column(name = "year1")
-  private Integer year1;
+  private String year1;
   @Column(name = "year2")
-  private Integer year2;
+  private String year2;
   @Column(name = "technologies")
   private String technologies;
   @Column(name = "responsibilities")
@@ -39,16 +39,16 @@ public class Experience {
   public void setPlace(String place) {
     this.place = place;
   }
-  public Integer getYear1() {
+  public String getYear1() {
     return year1;
   }
-  public void setYear1(Integer year1) {
+  public void setYear1(String year1) {
     this.year1 = year1;
   }
-  public Integer getYear2() {
+  public String getYear2() {
     return year2;
   }
-  public void setYear2(Integer year2) {
+  public void setYear2(String year2) {
     this.year2 = year2;
   }
   public String getTechnologies() {
@@ -63,5 +63,5 @@ public class Experience {
   public void setResponsibilities(String responsibilities) {
     this.responsibilities = responsibilities;
   }
-
+  
 }
