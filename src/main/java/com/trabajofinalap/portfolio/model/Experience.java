@@ -1,5 +1,7 @@
 package com.trabajofinalap.portfolio.model;
 
+import java.util.ArrayList;
+
 import javax.persistence.*;
 
 @Entity
@@ -18,9 +20,9 @@ public class Experience {
   @Column(name = "year2")
   private String year2;
   @Column(name = "technologies")
-  private String technologies;
+  private ArrayList<String> technologies;
   @Column(name = "responsibilities")
-  private String responsibilities;
+  private ArrayList<String> responsibilities;
   public Integer getId() {
     return id;
   }
@@ -51,17 +53,17 @@ public class Experience {
   public void setYear2(String year2) {
     this.year2 = year2;
   }
-  public String getTechnologies() {
+  public ArrayList<String> getTechnologies() {
     return technologies;
   }
-  public void setTechnologies(String technologies) {
+  public void setTechnologies(ArrayList<String> technologies) {
     this.technologies = technologies;
   }
-  public String getResponsibilities() {
+  public ArrayList<String> getResponsibilities() {
     return responsibilities;
   }
-  public void setResponsibilities(String responsibilities) {
+  public void setResponsibilities(ArrayList<String> responsibilities) {
     this.responsibilities = responsibilities;
   }
-  
+
 }
