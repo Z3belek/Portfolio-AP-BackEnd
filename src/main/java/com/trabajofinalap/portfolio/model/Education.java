@@ -60,5 +60,4 @@ public class Education {
   public void setDtext(String dtext) {
     this.dtext = dtext;
   }
-  
 }

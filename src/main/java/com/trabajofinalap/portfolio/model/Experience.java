@@ -1,5 +1,7 @@
 package com.trabajofinalap.portfolio.model;
 
+import java.util.ArrayList;
+
 import javax.persistence.*;
 
 @Entity
@@ -9,33 +11,23 @@ public class Experience {
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   @Column(name = "id")
   private Integer id;
-  @Column(name = "year1")
-  private Integer year1;
-  @Column(name = "year2")
-  private Integer year2;
   @Column(name = "role")
   private String role;
   @Column(name = "place")
   private String place;
-  @Column(name = "dtexto")
-  private String dtexto;
+  @Column(name = "year1")
+  private String year1;
+  @Column(name = "year2")
+  private String year2;
+  @Column(name = "technologies")
+  private ArrayList<String> technologies;
+  @Column(name = "responsibilities")
+  private ArrayList<String> responsibilities;
   public Integer getId() {
     return id;
   }
   public void setId(Integer id) {
     this.id = id;
-  }
-  public Integer getYear1() {
-    return year1;
-  }
-  public void setYear1(Integer year1) {
-    this.year1 = year1;
-  }
-  public Integer getYear2() {
-    return year2;
-  }
-  public void setYear2(Integer year2) {
-    this.year2 = year2;
   }
   public String getRole() {
     return role;
@@ -49,11 +41,29 @@ public class Experience {
   public void setPlace(String place) {
     this.place = place;
   }
-  public String getDtexto() {
-    return dtexto;
+  public String getYear1() {
+    return year1;
   }
-  public void setDtexto(String dtexto) {
-    this.dtexto = dtexto;
+  public void setYear1(String year1) {
+    this.year1 = year1;
+  }
+  public String getYear2() {
+    return year2;
+  }
+  public void setYear2(String year2) {
+    this.year2 = year2;
+  }
+  public ArrayList<String> getTechnologies() {
+    return technologies;
+  }
+  public void setTechnologies(ArrayList<String> technologies) {
+    this.technologies = technologies;
+  }
+  public ArrayList<String> getResponsibilities() {
+    return responsibilities;
+  }
+  public void setResponsibilities(ArrayList<String> responsibilities) {
+    this.responsibilities = responsibilities;
   }
 
 }
