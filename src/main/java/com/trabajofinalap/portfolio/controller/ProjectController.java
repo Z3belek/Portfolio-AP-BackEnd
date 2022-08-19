@@ -37,10 +37,10 @@ public class ProjectController {
   public Project editProject(@RequestBody Project project, @PathVariable Integer id) {
     Project editData = projectService.findById(id);
     editData.setTitle(project.getTitle());
-    editData.setType(project.getType());
-    editData.setPlace(project.getPlace());
-    editData.setDtexto(project.getDtexto());
-    editData.setImgurl(project.getImgurl());
+    editData.setGithub(project.getGithub());
+    editData.setHaveurl(project.getHaveurl());
+    editData.setFinalurl(project.getFinalurl());
+    editData.setDtext(project.getDtext());
 
     return projectService.save(editData);
   }

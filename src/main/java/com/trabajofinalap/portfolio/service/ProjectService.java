@@ -14,7 +14,6 @@ public class ProjectService {
   private ProjectRepository projectRepository;
 
   public ProjectService() {
-
   }
 
   public List<Project> getProject() {

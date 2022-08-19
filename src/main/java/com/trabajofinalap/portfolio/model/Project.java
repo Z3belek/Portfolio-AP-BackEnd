@@ -11,14 +11,14 @@ public class Project {
   private Integer id;
   @Column(name = "title")
   private String title;
-  @Column(name = "type")
-  private String type;
-  @Column(name = "place")
-  private String place;
-  @Column(name = "dtexto")
-  private String dtexto;
-  @Column(name = "imgurl")
-  private String imgurl;
+  @Column(name = "github")
+  private String github;
+  @Column(name = "haveurl")
+  private Boolean haveurl;
+  @Column(name = "finalurl")
+  private String finalurl;
+  @Column(name = "dtext")
+  private String dtext;
 
   public Integer getId() {
     return id;
@@ -36,36 +36,35 @@ public class Project {
     this.title = title;
   }
 
-  public String getType() {
-    return type;
+  public String getGithub() {
+    return github;
   }
 
-  public void setType(String type) {
-    this.type = type;
+  public void setGithub(String github) {
+    this.github = github;
   }
 
-  public String getPlace() {
-    return place;
+  public Boolean getHaveurl() {
+    return haveurl;
   }
 
-  public void setPlace(String place) {
-    this.place = place;
+  public void setHaveurl(Boolean haveurl) {
+    this.haveurl = haveurl;
   }
 
-  public String getDtexto() {
-    return dtexto;
+  public String getFinalurl() {
+    return finalurl;
   }
 
-  public void setDtexto(String dtexto) {
-    this.dtexto = dtexto;
+  public void setFinalurl(String finalurl) {
+    this.finalurl = finalurl;
   }
 
-  public String getImgurl() {
-    return imgurl;
+  public String getDtext() {
+    return dtext;
   }
 
-  public void setImgurl(String imgurl) {
-    this.imgurl = imgurl;
+  public void setDtext(String dtext) {
+    this.dtext = dtext;
   }
-
 }
