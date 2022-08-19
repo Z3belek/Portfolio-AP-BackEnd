@@ -40,6 +40,7 @@ public class EducationController {
     editData.setTitle(education.getTitle());
     editData.setInstitution(education.getInstitution());
     editData.setImgurl(education.getImgurl());
+    editData.setHaveurl(education.getHaveurl());
     editData.setUrlcertificate(education.getUrlcertificate());
     editData.setDtext(education.getDtext());
 
