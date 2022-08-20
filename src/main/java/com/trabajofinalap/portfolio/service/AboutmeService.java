@@ -23,11 +23,4 @@ public class AboutmeService {
     return aboutmeRepository.save(aboutme);
   }
 
-  public Aboutme findById(Integer id) {
-    return aboutmeRepository.findById(id).orElse(null);
-  }
-
-  public void delete(Integer id) {
-    aboutmeRepository.deleteById(id);
-  }
 }
