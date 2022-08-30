@@ -14,6 +14,7 @@
 
 ## Router controllers
 
+![alt Routes](https://i.imgur.com/8ZRePSA.png)
 
 ## Author
 
