@@ -1,0 +1,222 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.22,0:00:05.84,Gen_Main,shang,0000,0000,0000,,Deseamos que el mundo sea justo.
+Dialogue: 0,0:00:07.24,0:00:11.65,Gen_Main,shang,0000,0000,0000,,Pero el destino se mece\Nentre los platos de una balanza
+Dialogue: 0,0:00:12.10,0:00:16.32,Gen_Main,shang,0000,0000,0000,,y a veces hace travesuras muy crueles.
+Dialogue: 0,0:00:17.36,0:00:22.72,Gen_Main,shang,0000,0000,0000,,Ante esas travesuras insensibles,\Nno nos queda otra que llorar.
+Dialogue: 0,0:00:23.30,0:00:25.16,Gen_Main,yang cheng,0000,0000,0000,,¡Shang Chao!
+Dialogue: 0,0:00:26.90,0:00:28.67,Gen_Main,yang cheng,0000,0000,0000,,¡Shang Chao!
+Dialogue: 0,0:00:31.68,0:00:35.00,Gen_Main,shang,0000,0000,0000,,Si esta es la respuesta divina\Nque recibimos,
+Dialogue: 0,0:00:35.62,0:00:37.82,Gen_Main,shang,0000,0000,0000,,yo no pienso aceptarla.
+Dialogue: 0,0:00:38.42,0:00:41.04,Gen_Main,shang,0000,0000,0000,,Sujetaré al destino por el cuello…
+Dialogue: 0,0:00:42.06,0:00:45.22,Gen_Main,shang,0000,0000,0000,,y le diré que\Nsi la balanza se ha vencido
+Dialogue: 0,0:00:46.22,0:00:48.78,Gen_Main,shang,0000,0000,0000,,le devolveremos el equilibrio.
+Dialogue: 0,0:00:50.48,0:00:52.68,Gen_Main,shang,0000,0000,0000,,Y nadie huirá hasta entonces.
+Dialogue: 0,0:01:20.88,0:01:22.28,Gen_Main,yang cheng,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:01:24.22,0:01:26.12,Gen_Main,shang,0000,0000,0000,,¿Qué haces ahí?
+Dialogue: 0,0:01:27.54,0:01:31.82,Gen_Main,shang,0000,0000,0000,,Si te sientes culpable,\Nbusca al culpable y véngalo.
+Dialogue: 0,0:01:32.84,0:01:35.60,Gen_Main,shang,0000,0000,0000,,No esperes a que te dé permiso.
+Dialogue: 0,0:01:41.54,0:01:42.82,Gen_Main,yang cheng,0000,0000,0000,,Lo que quiero…
+Dialogue: 0,0:01:44.14,0:01:45.72,Gen_Main,yang cheng,0000,0000,0000,,es que me ayude.
+Dialogue: 0,0:01:49.32,0:01:52.75,Gen_Main,yang cheng,0000,0000,0000,,Tengo una idea de quién lo hizo.
+Dialogue: 0,0:01:58.92,0:02:01.00,Gen_Main,yang cheng,0000,0000,0000,,La herida de su cuello…
+Dialogue: 0,0:02:04.70,0:02:06.06,Gen_Main,yang cheng,0000,0000,0000,,se la causé yo.
+Dialogue: 0,0:03:40.74,0:03:43.69,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,600)\bord0\fs30\pos(445,73)\c&HDAD577&}Tres asientos
+Dialogue: 0,0:03:43.76,0:03:45.03,Gen_Main,yang cheng,0000,0000,0000,,¿Qué haces aquí?
+Dialogue: 0,0:03:47.60,0:03:49.34,Gen_Main,xia qing,0000,0000,0000,,Traigo esto de parte de Rock.
+Dialogue: 0,0:03:50.46,0:03:51.56,Gen_Main,yang cheng,0000,0000,0000,,Gracias.
+Dialogue: 0,0:03:56.16,0:03:59.86,Gen_Main,xia qing,0000,0000,0000,,¿Por qué trabajas solo,\Nsin avisar a la asociación?
+Dialogue: 0,0:04:01.62,0:04:06.40,Gen_Main,yang cheng,0000,0000,0000,,El asesino de Shang Chao es uno\Nde los que supuestamente arrestaron.
+Dialogue: 0,0:04:07.78,0:04:10.62,Gen_Main,yang cheng,0000,0000,0000,,Por eso no puedo confiar en nadie.
+Dialogue: 0,0:04:13.66,0:04:15.10,Gen_Main,xia qing,0000,0000,0000,,¿Ni siquiera en mí?
+Dialogue: 0,0:04:16.22,0:04:19.32,Gen_Main,yang cheng,0000,0000,0000,,Siento preocuparte.
+Dialogue: 0,0:04:24.80,0:04:29.00,Gen_Main,yang cheng,0000,0000,0000,,Pero esto tengo que hacerlo yo.
+Dialogue: 0,0:04:26.16,0:04:29.33,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\blur0.3\fs18\frz10\pos(339,89)\c&HD7D7D7&}Qishi
+Dialogue: 0,0:04:35.50,0:04:38.38,Gen_Main,qishi,0000,0000,0000,,Ya investigué lo que me pidió Shang.
+Dialogue: 0,0:04:39.24,0:04:42.36,Gen_Main,qishi,0000,0000,0000,,Se supone que esos dos están detenidos,
+Dialogue: 0,0:04:42.66,0:04:46.16,Gen_Main,qishi,0000,0000,0000,,pero los desplazaron\Nmientras se hacía el papeleo.
+Dialogue: 0,0:04:46.94,0:04:49.82,Gen_Main,yang cheng,0000,0000,0000,,¿Quién era el investigador a cargo?
+Dialogue: 0,0:04:50.82,0:04:52.48,Gen_Main,qishi,0000,0000,0000,,Llegamos tarde.
+Dialogue: 0,0:04:52.94,0:04:57.32,Gen_Main,qishi,0000,0000,0000,,Intenté localizarlo\Ny lleva desaparecido una semana.
+Dialogue: 0,0:04:57.80,0:05:00.66,Gen_Main,qishi,0000,0000,0000,,Si no ha estado\Ntoda la semana durmiendo,
+Dialogue: 0,0:05:00.86,0:05:02.86,Gen_Main,qishi,0000,0000,0000,,ya no está con nosotros.
+Dialogue: 0,0:05:04.00,0:05:08.54,Gen_Main,qishi,0000,0000,0000,,Alguien se fijaría en ellos\Nporque tenían algo contra ti.
+Dialogue: 0,0:05:09.50,0:05:14.24,Gen_Main,qishi,0000,0000,0000,,A nadie le extrañaría\Nque cometieran otro crimen.
+Dialogue: 0,0:05:14.74,0:05:20.06,Gen_Main,qishi,0000,0000,0000,,Y la persona que iba por ti\Npodía hacer lo que quisiera.
+Dialogue: 0,0:05:20.84,0:05:24.90,Gen_Main,periodista,0000,0000,0000,,¿Qué te parece que aún no hayan atrapado\Nal asesino de tu amigo?
+Dialogue: 0,0:05:28.34,0:05:31.62,Gen_Main,periodista 2,0000,0000,0000,,¿Continuarás trabajando\Ncomo el nuevo E-Soul?
+Dialogue: 0,0:05:34.94,0:05:36.04,Gen_Main,xia qing,0000,0000,0000,,Rock.
+Dialogue: 0,0:05:37.19,0:05:42.36,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs14\bord0\frz356\move(141,79,131,77,21,5152)}NUEVO E-SOUL
+Dialogue: 0,0:05:37.70,0:05:41.78,Gen_Italics,yang cheng,0000,0000,0000,,El título de E-Soul tiene\N34 años de historia.
+Dialogue: 0,0:05:42.62,0:05:44.58,Gen_Main,yang cheng,0000,0000,0000,,Lo respetaba de todo corazón.
+Dialogue: 0,0:05:45.22,0:05:49.34,Gen_Main,yang cheng,0000,0000,0000,,Creía que defendía\Nel bien y la justicia.
+Dialogue: 0,0:05:50.06,0:05:54.12,Gen_Italics,yang cheng,0000,0000,0000,,Pero, en realidad,\Nla balanza está inclinada.
+Dialogue: 0,0:05:55.56,0:05:57.76,Gen_Italics,yang cheng,0000,0000,0000,,Alguien tiene que arreglarlo.
+Dialogue: 0,0:05:58.62,0:06:02.32,Gen_Italics,yang cheng,0000,0000,0000,,Por eso debo hacerlo yo.
+Dialogue: 0,0:06:03.28,0:06:07.12,Gen_Main,yang cheng,0000,0000,0000,,El día del 34.º aniversario de E-Soul,
+Dialogue: 0,0:06:07.86,0:06:09.72,Gen_Italics,yang cheng,0000,0000,0000,,espero encontrarme con él
+Dialogue: 0,0:06:10.68,0:06:12.44,Gen_Italics,yang cheng,0000,0000,0000,,para retarlo a un duelo.
+Dialogue: 0,0:06:20.74,0:06:22.12,Gen_Main,e-soul,0000,0000,0000,,No me interesa.
+Dialogue: 0,0:06:22.94,0:06:25.10,Gen_Main,mánager MG,0000,0000,0000,,Es tu oportunidad.
+Dialogue: 0,0:06:25.26,0:06:28.12,Gen_Main,mánager MG,0000,0000,0000,,Los fans quieren que pelees contra él.
+Dialogue: 0,0:06:28.72,0:06:32.84,Gen_Main,mánager MG,0000,0000,0000,,Si ganas, tu Índice de Confianza\Nsubirá al menos 20 puntos.
+Dialogue: 0,0:06:33.06,0:06:36.12,Gen_Main,mánager MG,0000,0000,0000,,Es posible que vuelvas al top 10.
+Dialogue: 0,0:06:36.80,0:06:38.92,Gen_Main,e-soul,0000,0000,0000,,No me dejaré atar por la clasificación.
+Dialogue: 0,0:06:39.10,0:06:40.98,Gen_Main,mánager MG,0000,0000,0000,,¡No es solo eso!
+Dialogue: 0,0:06:44.06,0:06:46.60,Gen_Main,mánager MG,0000,0000,0000,,¿No ves lo que está pasando?
+Dialogue: 0,0:06:47.30,0:06:49.70,Gen_Main,streamer,0000,0000,0000,,Si lo ignora, lo está reconociendo.
+Dialogue: 0,0:06:50.42,0:06:52.62,Gen_Main,streamer,0000,0000,0000,,¿Acaso es el verdadero culpable?
+Dialogue: 0,0:06:53.18,0:06:55.74,Gen_Italics,presentadora tv,0000,0000,0000,,El Índice del antiguo E-Soul\Nsigue cayendo.
+Dialogue: 0,0:06:55.92,0:06:58.81,Gen_Italics,presentadora tv,0000,0000,0000,,Solo esta semana\Nha perdido cinco puntos.
+Dialogue: 0,0:06:59.08,0:07:03.18,Gen_Italics,presentador tv,0000,0000,0000,,El duelo entre E-Souls\Ncontinúa siendo tendencia.
+Dialogue: 0,0:07:03.60,0:07:07.10,Gen_Main,e-soul,0000,0000,0000,,Estoy harto de la arrogancia\Ndel antiguo E-Soul.
+Dialogue: 0,0:07:07.40,0:07:10.62,Gen_Main,e-soul,0000,0000,0000,,¿No creen que él\Nes más {\i1}cool{\i0} y amigable?
+Dialogue: 0,0:07:10.80,0:07:13.36,Gen_Main,streamer mayor,0000,0000,0000,,Son productos malísimos.\N¡Quiero mi dinero!
+Dialogue: 0,0:07:13.50,0:07:17.18,Gen_Main,streamer mayor,0000,0000,0000,,Ya no es el mismo. A partir de ahora\Napoyo al nuevo E-Soul.
+Dialogue: 0,0:07:20.09,0:07:25.09,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs16\bord1.5\pos(257,47)\c&HC1BA31&\3c&HFFFFFF&}Faltan 37 días para\Nel 34.º aniversario de E-Soul
+Dialogue: 0,0:07:20.40,0:07:23.96,Gen_Main,mánager MG,0000,0000,0000,,La gente ya llama E-Soul a ese chico.
+Dialogue: 0,0:07:24.22,0:07:27.06,Gen_Main,mánager MG,0000,0000,0000,,Estamos en desventaja.
+Dialogue: 0,0:07:27.48,0:07:31.26,Gen_Main,mánager MG,0000,0000,0000,,Si no aceptas el duelo,\Nquedarás relegado al pasado.
+Dialogue: 0,0:07:31.55,0:07:34.68,Gen_Main,mánager MG,0000,0000,0000,,No sé si será en un mes,\Nuna semana o mañana,
+Dialogue: 0,0:07:34.92,0:07:37.85,Gen_Main,mánager MG,0000,0000,0000,,pero dejarás de ser E-Soul.
+Dialogue: 0,0:07:48.54,0:07:51.24,Gen_Main,rock,0000,0000,0000,,Esos guantes son muy poderosos.
+Dialogue: 0,0:07:53.08,0:07:56.40,Gen_Main,xia qing,0000,0000,0000,,Los había diseñado Shang Chao.
+Dialogue: 0,0:07:57.02,0:07:59.38,Gen_Main,xia qing,0000,0000,0000,,Si aprovecha sus características,
+Dialogue: 0,0:07:59.62,0:08:02.29,Gen_Main,xia qing,0000,0000,0000,,los golpes ganan el doble de potencia.
+Dialogue: 0,0:08:03.96,0:08:05.28,Gen_Main,rock,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:08:07.08,0:08:09.38,Gen_Main,rock,0000,0000,0000,,Pero su rival se moverá.
+Dialogue: 0,0:08:09.64,0:08:11.80,Gen_Main,rock,0000,0000,0000,,¿Cómo piensa darle?
+Dialogue: 0,0:08:12.46,0:08:15.43,Gen_Main,rock,0000,0000,0000,,Su equipo es muy superior.
+Dialogue: 0,0:08:15.76,0:08:19.62,Gen_Main,rock,0000,0000,0000,,Además de ser resistente,\Ntiene un sistema de defensa.
+Dialogue: 0,0:08:19.97,0:08:23.90,Gen_Main,rock,0000,0000,0000,,Si lo activa, no podrá hacerle daño.
+Dialogue: 0,0:08:24.24,0:08:25.54,Gen_Main,yang cheng,0000,0000,0000,,Le daré.
+Dialogue: 0,0:08:26.12,0:08:29.00,Gen_Main,yang cheng,0000,0000,0000,,Pase lo que pase, le daré.
+Dialogue: 0,0:08:32.68,0:08:35.24,Gen_Main,xia qing,0000,0000,0000,,¿Por qué no descansas un poco?
+Dialogue: 0,0:08:36.22,0:08:40.06,Gen_Main,yang cheng,0000,0000,0000,,Para atravesar sus defensas\Ntengo que moverme más rápido que él.
+Dialogue: 0,0:08:41.26,0:08:42.68,Gen_Main,yang cheng,0000,0000,0000,,Tengo que seguir.
+Dialogue: 0,0:08:44.98,0:08:46.28,Gen_Main,rock,0000,0000,0000,,Un momento.
+Dialogue: 0,0:08:46.82,0:08:48.66,Gen_Main,rock,0000,0000,0000,,Mirémoslo de otra forma.
+Dialogue: 0,0:08:49.14,0:08:55.30,Gen_Main,rock,0000,0000,0000,,Mientras no active su sistema de defensa\Ntendrás una oportunidad.
+Dialogue: 0,0:08:55.48,0:08:57.44,Gen_Main,xia qing,0000,0000,0000,,¿Tiene que bajar la guardia?
+Dialogue: 0,0:08:57.64,0:08:58.86,Gen_Main,rock,0000,0000,0000,,No, no.
+Dialogue: 0,0:08:59.14,0:09:02.52,Gen_Main,rock,0000,0000,0000,,Si el antiguo E-Soul\Nusa la técnica de Tajo Eléctrico,
+Dialogue: 0,0:09:02.74,0:09:04.62,Gen_Main,rock,0000,0000,0000,,quedará indefenso.
+Dialogue: 0,0:09:05.06,0:09:06.46,Gen_Main,yang cheng,0000,0000,0000,,No la usará.
+Dialogue: 0,0:09:07.38,0:09:10.27,Gen_Main,yang cheng,0000,0000,0000,,Esa técnica es una hoja de doble filo.
+Dialogue: 0,0:09:10.86,0:09:12.56,Gen_Main,yang cheng,0000,0000,0000,,Lo sabe mejor que nadie.
+Dialogue: 0,0:09:13.32,0:09:16.30,Gen_Main,yang cheng,0000,0000,0000,,Puede hacer mucho daño,\Npero te deja expuesto.
+Dialogue: 0,0:09:17.14,0:09:18.82,Gen_Main,yang cheng,0000,0000,0000,,Desde aquel combate
+Dialogue: 0,0:09:20.14,0:09:21.72,Gen_Main,yang cheng,0000,0000,0000,,no ha vuelto a usarla.
+Dialogue: 0,0:09:26.16,0:09:29.28,Gen_Main,xia qing,0000,0000,0000,,Yang Cheng, ¿no será mejor olvidarlo?
+Dialogue: 0,0:09:32.36,0:09:35.18,Gen_Main,xia qing,0000,0000,0000,,Esto podría ser parte de su plan.
+Dialogue: 0,0:09:35.58,0:09:39.54,Gen_Main,xia qing,0000,0000,0000,,Querrán resurgir\Ndespués de que te autodestruyas.
+Dialogue: 0,0:09:40.66,0:09:42.54,Gen_Main,xia qing,0000,0000,0000,,Tengo mucho miedo.
+Dialogue: 0,0:09:42.96,0:09:45.06,Gen_Main,xia qing,0000,0000,0000,,No quiero perder a nadie más.
+Dialogue: 0,0:09:47.14,0:09:50.78,Gen_Main,rock,0000,0000,0000,,No lo habría dicho si no pensara\Nque podría funcionar.
+Dialogue: 0,0:09:51.66,0:09:55.38,Gen_Main,rock,0000,0000,0000,,Organizaré una situación\Nen la que tenga que usar Tajo Eléctrico.
+Dialogue: 0,0:09:55.56,0:10:00.57,Gen_Main,rock,0000,0000,0000,,Pero la condición es que\Npuedas darle con los puños primero.
+Dialogue: 0,0:10:02.12,0:10:05.22,Gen_Main,yang cheng,0000,0000,0000,,Te aseguro que le daré.
+Dialogue: 0,0:10:52.00,0:10:56.74,Gen_Main,xia qing,0000,0000,0000,,El día que te conocí llovía muchísimo.
+Dialogue: 0,0:10:57.06,0:10:59.88,Gen_Main,xia qing,0000,0000,0000,,Íbamos todos bien vestidos\Nal empezar el trimestre
+Dialogue: 0,0:11:00.68,0:11:04.18,Gen_Main,xia qing,0000,0000,0000,,y tú llegaste tarde lleno de barro.
+Dialogue: 0,0:11:05.30,0:11:09.54,Gen_Main,xia qing,0000,0000,0000,,Creí que te inventarías una excusa\Ncuando la profesora te preguntó por qué,
+Dialogue: 0,0:11:10.19,0:11:11.84,Gen_Main,xia qing,0000,0000,0000,,pero contestaste…
+Dialogue: 0,0:11:13.40,0:11:15.73,Gen_Main,yang cheng,0000,0000,0000,,Es que soy un poco rústico.
+Dialogue: 0,0:11:16.18,0:11:20.82,Gen_Main,xia qing,0000,0000,0000,,En realidad fue porque te metiste\Nen el lodo para salvar a un gato.
+Dialogue: 0,0:11:22.66,0:11:24.96,Gen_Main,xia qing,0000,0000,0000,,¿Cómo iba a imaginarme
+Dialogue: 0,0:11:25.22,0:11:29.00,Gen_Main,xia qing,0000,0000,0000,,que ese chico inocente era el actor\Ndel espectáculo de héroes?
+Dialogue: 0,0:11:29.92,0:11:33.56,Gen_Main,xia qing,0000,0000,0000,,En el escenario rebosabas confianza.
+Dialogue: 0,0:11:35.44,0:11:39.86,Gen_Main,xia qing,0000,0000,0000,,Te esforzabas honestamente\Npara cumplir tus metas.
+Dialogue: 0,0:11:42.22,0:11:45.56,Gen_Main,xia qing,0000,0000,0000,,¿Aún mantienes esa confianza?
+Dialogue: 0,0:11:47.24,0:11:48.68,Gen_Main,yang cheng,0000,0000,0000,,No tengo dudas.
+Dialogue: 0,0:11:50.46,0:11:52.32,Gen_Main,xia qing,0000,0000,0000,,¿Seguro que es lo que quieres?
+Dialogue: 0,0:11:55.42,0:11:56.54,Gen_Main,yang cheng,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:03.58,0:12:05.78,Gen_Main,xia qing,0000,0000,0000,,¿Recuerdas lo que me prometiste?
+Dialogue: 0,0:12:07.08,0:12:08.14,Gen_Main,yang cheng,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:12.00,0:12:15.06,Gen_Main,yang cheng,0000,0000,0000,,Pero ahora no estoy solo.
+Dialogue: 0,0:12:15.90,0:12:18.18,Gen_Main,yang cheng,0000,0000,0000,,Cargo con la confianza de miles.
+Dialogue: 0,0:12:20.20,0:12:22.00,Gen_Main,yang cheng,0000,0000,0000,,Si huyera ahora,
+Dialogue: 0,0:12:22.60,0:12:25.70,Gen_Main,yang cheng,0000,0000,0000,,los estaría traicionando a todos.
+Dialogue: 0,0:12:26.14,0:12:27.68,Gen_Main,xia qing,0000,0000,0000,,¡No es huir!
+Dialogue: 0,0:12:29.62,0:12:30.70,Gen_Main,yang cheng,0000,0000,0000,,¡Xia Qing!
+Dialogue: 0,0:12:36.56,0:12:39.10,Gen_Italics,presentador tv 2,0000,0000,0000,,Esta es la noche\Ndel duelo entre E-Souls.
+Dialogue: 0,0:12:39.34,0:12:43.90,Gen_Italics,presentador tv 2,0000,0000,0000,,El evento del 34.º será\Nel campo de batalla.
+Dialogue: 0,0:12:39.34,0:12:43.90,Gen_Italics_top,presentadora tv B,0000,0000,0000,,E-Soul se ganó la confianza\Nde niños y adultos.
+Dialogue: 0,0:12:44.10,0:12:47.04,Gen_Italics_top,presentadora tv B,0000,0000,0000,,¿Quién se alzará victorioso?
+Dialogue: 0,0:12:44.10,0:12:47.04,Gen_Italics,presentadora tv B,0000,0000,0000,,Se batirán en duelo\Ncon el culpable aún libre.
+Dialogue: 0,0:12:57.55,0:13:04.01,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HFBFFF8&\3c&HFFD245&\bord1\blur2}Nuevo E-Soul vs. E-Soul
+Dialogue: 0,0:12:57.92,0:12:59.92,Gen_Main,mc,0000,0000,0000,,Por técnicas y equipo,
+Dialogue: 0,0:13:00.10,0:13:03.60,Gen_Main,mc,0000,0000,0000,,el antiguo E-Soul\Ntiene mucha más ventaja.
+Dialogue: 0,0:13:12.90,0:13:16.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&HFBFFF8&\3c&HFFD245&\bord1\blur2\pos(240,20)}Nuevo E-Soul vs. E-Soul
+Dialogue: 0,0:13:13.20,0:13:16.60,Gen_Main,invitado tv,0000,0000,0000,,En un combate,\Nes la Confianza la que da fuerzas.
+Dialogue: 0,0:13:17.14,0:13:20.70,Gen_Main,invitado tv,0000,0000,0000,,El nuevo E-Soul casi supera\Nen popularidad al antiguo.
+Dialogue: 0,0:13:21.52,0:13:26.92,Gen_Main,invitado tv,0000,0000,0000,,El resultado del duelo\Ndependerá del público.
+Dialogue: 0,0:13:34.25,0:13:43.42,Gen_Main,público,0000,0000,0000,,¡Lucky Cyan! ¡Lucky Cyan! ¡Lucky Cyan!
+Dialogue: 0,0:15:31.34,0:15:33.90,Gen_Italics,mánager MG,0000,0000,0000,,E-Soul, no puedes seguir peleando así.
+Dialogue: 0,0:15:35.38,0:15:36.38,Gen_Main,e-soul,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:15:36.84,0:15:39.48,Gen_Main,mánager MG,0000,0000,0000,,La gente quiere que uses Tajo Eléctrico.
+Dialogue: 0,0:15:40.50,0:15:43.04,Gen_Main,mánager MG,0000,0000,0000,,Si no lo haces, afectará a la Confianza
+Dialogue: 0,0:15:43.22,0:15:45.36,Gen_Main,mánager MG,0000,0000,0000,,y estarás en desventaja.
+Dialogue: 0,0:15:45.50,0:15:47.52,Gen_Main,e-soul,0000,0000,0000,,¿Quién está manipulando a las masas?
+Dialogue: 0,0:15:48.09,0:15:52.18,Gen_Main,mujeres,0000,0000,0000,,-Solo conozco el nombre.\N-Puede que la técnica ni exista.
+Dialogue: 0,0:15:48.09,0:15:52.18,Gen_Main_Up,hombres,0000,0000,0000,,-El antiguo E-Soul es aburrido.\N-¿No va a usar ninguna técnica?
+Dialogue: 0,0:15:49.55,0:15:50.93,Cart_A_Tre,CARTEL,0000,0000,0000,,{\p1\c&HDFDDDD&\blur0.5\bord1\an7\3c&H92A09D&\1a&H4B&\fscx51\fscy75\pos(12,52)}m 0 0 l 260 0 260 100 0 100
+Dialogue: 0,0:15:49.55,0:15:50.93,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\fs18\c&H313432&\pos(78,52)}¡Qué batalla!\N¡No te lo pienses\Ny usa el Tajo!\N¿A qué esperas?
+Dialogue: 0,0:15:50.93,0:15:52.18,Cart_A_Tre,CARTEL,0000,0000,0000,,{\p1\c&HE4E6E1&\blur0.5\bord1\an7\3c&H92A09D&\1a&H4B&\fscx125\fscy80\pos(9,70)}m 0 0 l 260 0 260 100 0 100
+Dialogue: 0,0:15:50.93,0:15:52.18,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\fs15\an7\c&H313432&\pos(12,71)}1. ¡Ya es hora de sacar a relucir el Tajo!\N2. La tecnología ha avanzado mucho.\N3. ¡Usa el Tajo!\N4. ¿El nuevo Tajo será tan fuerte como el de antes?\N5. ¡Que resurja la luz!
+Dialogue: 0,0:15:52.38,0:15:54.84,Gen_Main,hombres,0000,0000,0000,,-¿No va a usarla?\N-¡Quiero ver la técnica!
+Dialogue: 0,0:15:55.82,0:15:58.70,Gen_Main,rock,0000,0000,0000,,Así tendrá que usar Tajo Eléctrico.
+Dialogue: 0,0:15:58.96,0:16:02.54,Gen_Main,yang cheng,0000,0000,0000,,¿Cuánto dinero gastaste, Rock?
+Dialogue: 0,0:16:03.42,0:16:04.58,Gen_Main,rock,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:16:04.85,0:16:07.34,Gen_Main,rock,0000,0000,0000,,Tú asegúrate de ganar.
+Dialogue: 0,0:17:49.40,0:17:53.02,Gen_Main,mujer 1/2,0000,0000,0000,,-El nuevo E-Soul es genial.\N-Sí. Ahora quiero sus productos.
+Dialogue: 0,0:17:53.18,0:17:54.80,Gen_Main,hombre,0000,0000,0000,,El nuevo tiene buen equipo.
+Dialogue: 0,0:17:57.76,0:17:59.48,Gen_Main,mánager MG,0000,0000,0000,,No te limites a defenderte.
+Dialogue: 0,0:17:59.66,0:18:03.22,Gen_Main,mánager MG,0000,0000,0000,,Te quitará más y más fans\Ny acabarás perdiendo.
+Dialogue: 0,0:18:59.36,0:19:01.46,Gen_Italics,yang cheng,0000,0000,0000,,Le daré como sea.
+Dialogue: 0,0:19:12.00,0:19:13.18,Gen_Main,xia qing,0000,0000,0000,,¡Shang Chao!
+Dialogue: 0,0:19:17.20,0:19:19.26,Gen_Main,xia qing,0000,0000,0000,,Ayer se me declaró Shang Chao.
+Dialogue: 0,0:19:19.42,0:19:20.46,Gen_Main,xia qing,0000,0000,0000,,Shang Chao.
+Dialogue: 0,0:19:20.64,0:19:23.22,Gen_Main,shang chao,0000,0000,0000,,Xia Qing, tengo boletos VIP para ti.
+Dialogue: 0,0:19:23.43,0:19:25.42,Gen_Main,shang chao,0000,0000,0000,,¡Xia Qing!
+Dialogue: 0,0:19:27.04,0:19:28.58,Gen_Italics,yang cheng,0000,0000,0000,,¡No dudaré más!
+Dialogue: 0,0:19:34.18,0:19:35.22,Gen_Main,yang cheng,0000,0000,0000,,¡No!
+Dialogue: 0,0:20:17.58,0:20:22.24,Gen_Main,yang cheng,0000,0000,0000,,Rock, ¿cómo funciona\Nlo de la mesa de las parejas?
+Dialogue: 0,0:20:24.04,0:20:26.34,Gen_Main,rock,0000,0000,0000,,No tiene ningún poder especial.
+Dialogue: 0,0:20:26.96,0:20:30.30,Gen_Main,rock,0000,0000,0000,,Es el lugar con la mejor vista\Ny donde da más el sol.
+Dialogue: 0,0:20:30.72,0:20:32.50,Gen_Main,rock,0000,0000,0000,,Perfecto para declararse.
+Dialogue: 0,0:20:33.32,0:20:36.44,Gen_Main,rock,0000,0000,0000,,Yo solo puse ahí una mesa.
+Dialogue: 0,0:20:38.64,0:20:41.16,Gen_Main,rock,0000,0000,0000,,Los humanos son muy interesantes.
+Dialogue: 0,0:20:41.68,0:20:44.34,Gen_Main,rock,0000,0000,0000,,Con unas pocas palabras no sucede nada,
+Dialogue: 0,0:20:45.88,0:20:48.40,Gen_Main,rock,0000,0000,0000,,pero si les preparas un escenario,
+Dialogue: 0,0:20:49.42,0:20:51.68,Gen_Main,rock,0000,0000,0000,,enseguida pasan a la acción.
+Dialogue: 0,0:20:53.10,0:20:56.20,Gen_Main,rock,0000,0000,0000,,Pueden eliminar al del Índice de cero.
+Dialogue: 0,0:21:01.14,0:21:04.30,Gen_Main,rock,0000,0000,0000,,Tengo un trabajo bien pagado.\N¿Te interesa?
+Dialogue: 0,0:21:08.82,0:21:11.18,Gen_Main,rock,0000,0000,0000,,Si no quieres que tu hermano muera,
+Dialogue: 0,0:21:11.34,0:21:13.20,Gen_Main,rock,0000,0000,0000,,elimina a ese impostor.
+Dialogue: 0,0:21:13.38,0:21:15.82,Gen_Main,da hu,0000,0000,0000,,¡Déjame ver a mi hermano primero!
+Dialogue: 0,0:21:55.10,0:22:00.14,Gen_Italics,presentadora tv 2,0000,0000,0000,,Según la asociación, se han combinado\Nlos Índices de ambos E-Souls.
+Dialogue: 0,0:22:00.38,0:22:04.44,Gen_Italics,presentadora tv 2,0000,0000,0000,,Eso significa que uno de ellos\Nha perdido la vida en el duelo.
+Dialogue: 0,0:22:21.16,0:22:23.64,Gen_Main,hombre 2,0000,0000,0000,,¿Cuándo cerraron este local?
+Dialogue: 0,0:22:23.82,0:22:25.18,Gen_Main,mujer 3,0000,0000,0000,,Ya hace tiempo, ¿no?
+Dialogue: 0,0:22:25.36,0:22:28.22,Gen_Main,hombre 3,0000,0000,0000,,Si acababa de abrir\Ny tenía bastante gente.
+Dialogue: 0,0:22:35.82,0:22:40.06,Gen_Main,rock,0000,0000,0000,,La vista desde lo alto\Nes diferente, ¿eh?
+Dialogue: 0,0:23:30.90,0:23:33.18,Cart_A_Tre,CARTEL,0000,0000,0000,,{\b0\bord0\fs18}Traducción / Pautado: Iris de la Fuente\NEdición: José María Pérez\NControl de calidad: Gekokujou
